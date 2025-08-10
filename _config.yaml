@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: Yang's Lab
 subtitle: 
-description: "A website for our lab."
+description: "A website for our lab"
 url: "https://tiyooy.github.io" # 【重要】这里填写你的 GitHub Pages 主域名
                                        # 格式为 "https://<你的GitHub用户名>.github.io"
 baseurl: "/Lab-site"
