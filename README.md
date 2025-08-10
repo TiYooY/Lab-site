@@ -25,6 +25,6 @@ Spend less time worrying about managing a website and citations, and more time r
 - 🖋️ Blog posts with tags and rich content.
 - 📱 Works and looks good on desktop and mobile.
 - 🤝 Great documentation and support (if we do say so ourselves).
-- ... and much more!
+- ... and much more!1
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/greenelab/lab-website-template)
